@@ -18,7 +18,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/tradyfinance/backoff"
+	"github.com/jadefox10200/backoff"
 )
 
 // A LazyRateLimiter implements rate limiting for an http.RoundTripper object.
